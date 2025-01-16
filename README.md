@@ -1,0 +1,2 @@
+Esse projeto feito durante a jornada python da hashtag, cria e ultiliza 2 tipos de IA's para fazer uma previsão com base em dados que simulam a situação e relação com um sistema bancário. 
+Basicamente, ela utiliza uma lista de dados e aprende com eles(machine learning). Após isso, é fornecido mais uma lista e a função da IA é prever como vai ser o score de crédito daquele cliente com base em seu aprendizado anterior.
